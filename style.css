@@ -47,6 +47,7 @@
   width: 0.9%;
   top: 7.4%;
   transform-origin: bottom;
+  box-shadow: 2px 2px;
 }
 
 #dateContainer {
